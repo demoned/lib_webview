@@ -1,0 +1,3 @@
+rootProject.name = 'WebShowView'
+include ':app'
+include ':lib_xwebview'
